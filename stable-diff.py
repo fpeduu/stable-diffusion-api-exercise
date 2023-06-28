@@ -1,10 +1,6 @@
 import os
 import requests
 import webbrowser
-
-API_KEY = 'sua chave de API'
-URL = 'https://stablediffusionapi.com/api/v3/text2img'
-
 from dotenv import load_dotenv
 
 load_dotenv()
